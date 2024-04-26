@@ -1,1 +1,1 @@
-# sainathreddygutha-plant-disease-detection-and-prevention-using-cnn
+plant-disease-detection-and-prevention-using-cnn
